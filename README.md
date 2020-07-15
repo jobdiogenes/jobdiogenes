@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**jobdiogenes/jobdiogenes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**jobdiogenes/jobdiogenes** is a ✨ _special_ ✨ 
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+1. Making __vegan__ and __metacom_ R packages run faster 
+1. Build [docker images](https://hub.docker.com/r/jobdiogenes/fastr) for [__fastr__](https://github.com/oracle/fastr)
+1. Promote learning of Python, R and data science for biologists and ecologists, through [code vignets recipes](https://github.com/jobdiogenes/data-science-recipes) 
 - 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
+- Open Science
+- Reprodutive research
+- Research publishing
+- 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
