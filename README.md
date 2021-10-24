@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**jobdiogenes/jobdiogenes** is a ✨ _special_ ✨ 
+**jobdiogenes/jobdiogenes** is a ✨ Open Sorce Evangelist ✨ 
 
 Here are some ideas to get you started:
 
